@@ -1,0 +1,4 @@
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#111;color:#fff;font-family:Arial,sans-serif}
+.logo{color:#d4af37;padding:20px;font-size:32px;font-weight:bold}
+.hero{height:100vh;display:flex;justify-content:center;align-items:center}
